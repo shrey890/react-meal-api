@@ -1,0 +1,13 @@
+
+
+a {
+  font-weight: 500;
+  color: #ff0000;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #00ff6e;
+}
+.nav{
+  border-radius: 14% 86% 95% 5% / 6% 76% 24% 94%  ;
+}
